@@ -34,8 +34,8 @@ After finding success with classifying the dog pixels, I integrated the privacy 
 
 This iteration was ultimately successful given the time and the outlined goals. For future iterations, I want to optimize the prediction and processing tiem as there was sufficient lag; I would like to make use of the built-in GPU on the Raspberry Pi. I also am considering applying Morphological closing or another time of edge linking/smoothing on the boundary pixels, as dog outlines are very chunky.
 
+![first_live_test copy](https://user-images.githubusercontent.com/49654275/176474843-809d04c9-ea6e-4953-b574-aa6712992913.jpg)
 
-![first_live_test](https://user-images.githubusercontent.com/49654275/176474363-88048be3-ee95-4d3c-b88e-f023efb31ed9.jpg)
 
 
 ## Iteration 2 (May 2022)
